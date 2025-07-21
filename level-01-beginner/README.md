@@ -6,7 +6,7 @@
 ### Topics:
 - [**Introduction to Programming**](./docs/README.md): What is a program? Compilers (g++, clang), IDEs (VS Code, CLion, Visual Studio).
 - [**C++ Basics**](./docs/basic.md): Structure of a C++ program (main function), `#include`, `namespaces (std)`.
-- [**Variables and Data Types**](./docs/variable-and-data-types.md): `int`, `float`, `double`, `char`, `bool`, `std::string`.
+- [**Variables and Data Types**](./docs/variables-and-data-types.md): `int`, `float`, `double`, `char`, `bool`, `std::string`.
 - [**Input/Output**](./docs/input-output.md): `std::cout`, `std::cin`, basic formatting.
 - [**Operators**](./docs/operators.md): Arithmetic (`+`, `-`, `*`, `/`, `%`), relational (`==`, `!=`, `<`, `>`), logical (`&&`, `||`, `!`).
 - [**Control Structures**](./docs/control-structures.md): `if`, `else`, `switch`, `for`, `while`, `do-while` loops.

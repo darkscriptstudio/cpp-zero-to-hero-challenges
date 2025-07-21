@@ -152,4 +152,4 @@ From hello world to building your own software empire — step by step, line by 
 Keep learning, keep coding.
 From [Mohammad Tanvir](https://github.com/villainXtanvir) & the team at [Dark Script Studio](https://github.com/orgs/darkscriptstudio/) — Happy coding! 🚀
 
-### Next Step : [Learn C++ Basics](./basic)
+### Next Step : [Learn C++ Basics](./basic.md)

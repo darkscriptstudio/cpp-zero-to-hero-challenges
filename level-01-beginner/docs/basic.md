@@ -131,5 +131,5 @@ It may feel new, but with practice — you'll speak it fluently.
 
 – From [**Mohammad Tanvir**](https://github.com/villainXtanvir) & [**Dark Script Studio**](https://github.com/orgs/darkscriptstudio) 🚀
 
-### Next Step: [Learn Variables and Data Types](./variable-and-data-types.md) 
-### Previous : [Introduction to Programming](./README.md)
+### Stay tuned for the next lesson: [Learn Variables and Data Types](./variables-and-data-types.md) 
+### Previous lesson: [Introduction to Programming](./README.md)

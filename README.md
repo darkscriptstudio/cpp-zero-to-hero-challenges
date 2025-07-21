@@ -37,7 +37,7 @@ C++ is one of the most powerful and widely used programming languages in the wor
 - ✅ Memory Management
 - ✅ Basic Data Structures
 
-📖 [Learning Docs](./level-01-beginner/docs/learning.md)  
+📖 [Learning Docs](./level-01-beginner/docs/README.md)  
 🧩 [Challenges Folder](./level-01-beginner/challenges/)
 
 ---
