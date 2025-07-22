@@ -9,9 +9,16 @@
 <details>
 <summary><h4>Basic IO and oporetors</h4></summary>   
 
-It is essential to understand the [**structure**](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/basic.md), [**input/output**](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/input-output.md), [**Variables**](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/variables-and-data-types.md) and [**operators**](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/operators.md) of C++ before attempting the challenges. If you are not familiar with these concepts, please learn them first. - [**Learn it from here**](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/README.md)
+- [Structure of a C++ Program](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/README.md)
+- [Input & Output](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/input-output.md)
+- [Variables & Data Types](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/variable-and-data-types.md)
+- [Operators](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/operators.md)
 
-- [**01. Sum of two numbers**](./stage-01/basic-i-o-operators/01-sum-of-two-numbers/README.md) – Take two numbers as input and print their sum. 
-- [**02. Simple Calculator**](./stage-01/basic-i-o-operators/02-simple-calculator/README.md) – Build a calculator that performs `+`, `-`, `*`, `/` based on user input.
+> Note: If you're new to these concepts, we strongly recommend starting from the documentation above to build a solid foundation. - [Start Learning Now](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/README.md)
+
+| Challenge | Title	             | Description                                 |
+|-----------|------------------- |-----------------------------------------------|
+| 01	    | Sum of Two Numbers | [See Description](./stage-01/basic-i-o-and-operators/01-sum-of-two-numbers/README.md) |
+| 02	    | Simple Calculator	 | [See Description](./stage-01/basic-i-o-and-operators/02-simple-calculator/README.md) |
 
 </details>

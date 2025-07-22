@@ -110,8 +110,12 @@ Stay sharp, think logically, and code like a villain! 😎
 ## Interactive Practice Challenges:
 <details>
 <summary>[Basic Io and oporetor](../challenges/stage-01/basic-i-o-operators/README.md)</summary>  
-- [01. Sum of two numbers](../challenges/stage-01/basic-i-o-operators/01-sum-of-two-numbers/README.md)
-- [02. Simple Calculator](../challenges/stage-01/basic-i-o-operators/02-simple-calculator/README.md)
+
+| Challenge | Title	             | Description                                 |
+|-----------|------------------- |-----------------------------------------------|
+| 01	    | Sum of Two Numbers | [See Description](../challenges/stage-01/basic-i-o-and-operators/01-sum-of-two-numbers/README.md) |
+| 02	    | Simple Calculator	 | [See Description](../challenges/stage-01/basic-i-o-and-operators/02-simple-calculator/README.md) |
+
 
 </details>
 

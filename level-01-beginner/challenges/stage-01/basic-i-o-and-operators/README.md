@@ -7,10 +7,10 @@
 
 Before diving into hands-on coding challenges, it's crucial to understand the core building blocks of C++:
 
-- 🔹 [Structure of a C++ Program](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/README.md)
-- 🔹 [Input & Output](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/input-output.md)
-- 🔹 [Variables & Data Types](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/variable-and-data-types.md)
-- 🔹 [Operators](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/operators.md)
+- [Structure of a C++ Program](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/README.md)
+- [Input & Output](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/input-output.md)
+- [Variables & Data Types](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/variable-and-data-types.md)
+- [Operators](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/operators.md)
 
 > Note: If you're new to these concepts, we strongly recommend starting from the documentation above to build a solid foundation. - [Start Learning Now](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/README.md)
 
