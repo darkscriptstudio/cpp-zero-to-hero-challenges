@@ -99,9 +99,15 @@ You are 18 years old.
 
 ### Task:
 - Create a C++ program that asks the user for:
-- Their name (use `getline`)
+- Their name (use `getline`) 
 - Their favorite color
 - Their favorite number
+Note : Just a heads up: use `getline` to grab the whole line of text with spaces. 
+```cpp
+string name;
+
+getline(cin, name);
+```
 
 ### Then display a formatted message like this:
 ```bash
