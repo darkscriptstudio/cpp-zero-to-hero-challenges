@@ -1,4 +1,4 @@
-#Beginner Level
+# Beginner Level
 **Goal**: Understand C++ basics, syntax, and foundational programming concepts. Build simple programs and gain confidence.
 
 ## Stage 1: Fundamentals of Programming and C++ Syntax
@@ -25,5 +25,6 @@
 > For those interested in learning the basics of C++, I recommend visiting [Docs](./docs/README.md). 
 
 ## Challenge
-If you are already complete the c++ basic then test yourself complete this all challengesIf you have already completed the basics of C++, I encourage you to test your skills by completing all of these challenges. 
+If you have already completed the basics of C++, I encourage you to test your skills by completing all of these challenges. 
 
+### [Challenge path](./challenges/README.md)

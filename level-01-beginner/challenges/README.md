@@ -3,22 +3,40 @@
 
 ---
 
-## Challenges: 
+## Challenges stages: 
+
 ### Stage 1: Fundamentals (Syntax, Control Flow, Functions)
+> This stage is perfect if you are just stating with programming
 
-<details>
-<summary><h4>Basic IO and oporetors</h4></summary>   
+Before diving into hands-on coding challenges, it's crucial to understand this topic.
 
-- [Structure of a C++ Program](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/README.md)
-- [Input & Output](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/input-output.md)
-- [Variables & Data Types](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/variable-and-data-types.md)
-- [Operators](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/operators.md)
+- [**Introduction to Programming**](../docs/README.md)
+- [**C++ Basics**](../docs/basic.md)
+- [**Variables and Data Types**](../docs/variables-and-data-types.md)
+- [**Input/Output**](../docs/input-output.md)
+- [**Operators**](../docs/operators.md)
+- [**Control Structures**](../docs/control-structures.md)
+- [**Functions**](../docs/function.md)
 
-> Note: If you're new to these concepts, we strongly recommend starting from the documentation above to build a solid foundation. - [Start Learning Now](https://github.com/darkscriptstudio/cpp-zero-to-hero-challenges/blob/main/level-01-beginner/docs/README.md)
+#### [See the full details of stage one challenges.](./stage-01/README.md)
 
-| Challenge | Title	             | Description                                 |
-|-----------|------------------- |-----------------------------------------------|
-| 01	    | Sum of Two Numbers | [See Description](./stage-01/basic-i-o-and-operators/01-sum-of-two-numbers/README.md) |
-| 02	    | Simple Calculator	 | [See Description](./stage-01/basic-i-o-and-operators/02-simple-calculator/README.md) |
+### Stage 2: Arrays, Strings, and Basic Memory 
+> This stage helps you handle collections of data and text.
 
-</details>
+Before diving into hands-on coding challenges, it's crucial to understand this topic.
+
+- [**Arrays**](../docs/arrays.md)
+- [**Strings**](../docs/strings.md)
+- [**Pointers**](../docs/pointers.md)
+- [**Memory Management**](../docs/memory-management.md)
+- [**Basic Data Structures**](../docs/basic-data-structure.md)
+
+#### [See the full details of stage two challenges](./stage-02/README.md)
+
+---
+
+> *Don’t just copy code — understand it.  
+Think, try, fail, debug, and grow.  
+The solution is always within your logic.*
+
+Keep pushing. You're not just learning C++, you're building your mindset as a developer.
